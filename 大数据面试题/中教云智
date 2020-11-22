@@ -1,0 +1,11 @@
+1.Mysql行转列
+2.Spark Yarn几种部署模式
+3.Kafka为什么这么快？Kafka数据存在哪里？
+4.Kafka怎么判断数据是不是堆积？用什么命令查看
+5.Spark 怎么精准一次性消费
+6.Flink的常用算子
+7.Flink的几种状态
+8.Flume的作用，用到哪些source、channel、sink，中间遇到什么问题
+9.Flink哪些自定义的函数？怎么实现
+10.讲拉链表，拉链表按照什么
+11.Spark怎么调优？Java怎么调优？新生代、老生代
