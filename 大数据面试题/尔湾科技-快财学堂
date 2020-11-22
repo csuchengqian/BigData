@@ -1,0 +1,20 @@
+学长一：
+1.Kafka的架构
+2.spark内存管理
+3.spark的shuffle
+4.hive优化
+5.离线数仓分层
+6.yarn提交流程
+7.hdfs提交流程
+8.mysql数据引擎 为什么默认innodb
+9.mysql怎么实时监控数据变化？ 为什么不用canal? 
+10.map join和reduce join的区别
+11.spark rdd ds df区别
+12.spark有没有可以处理不了Kafka内的数据？怎么办？
+13.Atlas是什么？怎么用的？在生产上用过没？
+14.spar streaming消费kafka怎么保证一致性的？
+15.数据倾斜遇到过没？怎么处理的
+16.spark 读取Gzip文件能形成多少task
+17.Hash Map和conurrent HashMap 区别？
+18.ArrayList和Linked List区别
+19.Linux命令,磁盘挂载
