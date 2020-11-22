@@ -1,0 +1,9 @@
+学长一：
+滴滴视频面试题:
+一 手写sql，给出order[order_id, pro_id, pro_name, city_id, order_price, act_ids, dt]表
+  1.act活动对应的订单量 
+  2.每个城市city前top20%的商品、销售额、排名  
+
+二，手写spark双流join同时需要判断Hbase首单代码
+
+三，写UDF UDTF UDAF的JAVA代码。
