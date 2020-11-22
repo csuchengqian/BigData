@@ -1,0 +1,42 @@
+学长一
+一面：
+1、Hbase原理  Hbase master挂了还能写数据吗？怎么做到的
+2、zookper是怎么找到注册在zookeeper框架的各个节点的
+3、讲一下ES 结构基本原理   
+4、Redis了解吗
+5、Spark算子textfile读取HDFS文件的默认分区规则  自己猜的按照hadoop的读取块分区去分区
+6、spark偏移量，重复消费问题怎么解决？ 问了老师上课讲的怎么保证数据写完了，偏移量没保存造成的数据重复问题
+7、一个任务提交之后，spark是怎么控制核数的？
+8、用的大数据平台是什么，   他们公司是几个CDH集群，我答的apache
+9、对用户认证，权限管理熟悉吗
+10、跑hive，spark任务怎么去监控他
+11、平时用什么开发语言。
+12、shell脚本写过吗？
+13、hive调优。  通过beeling客户端load 命令可以执行吗？只能load客户端的文件还是其他的都可以    自定义hive函数后hive会保留元数据信息吗
+14、hive自定义函数后打jar包不上传HDFS行不行
+15、spark和flink那个你更熟悉  
+16、HBase rowkey设计原则 生成随机数不行，用hash值
+17、mappartition和foreachpartition区别
+18、java多线程，并发，IO读写也问了
+18、kafka增加3台节点，topic的分区怎么处理  动态水平扩容
+19，Hbase的regin节点挂了怎么办
+
+ES的问题
+ES 倒排索引
+ES 删除index会删除数据吗 会，删除document会删除数据吗？ 不会 删除时候会打标签，合并的时候会删除
+
+还有一轮技术面试。
+您对大数据平台运维监控感兴趣吗？
+
+友友二面：
+1、MR执行流程
+2、sparkshuffer原理和调优
+3、集群是你搭的吗？怎么搭的
+4、presto的架构
+5、java同步非同步，阻塞非阻塞
+6、java的String能被继承吗
+7、java的设计模式说一下，单例几种，区别
+8、java和Scala的区别，scala用的哪个版本
+9、java的多线程，juc
+10、jvm了解吗，说一下
+11、gc说一下
